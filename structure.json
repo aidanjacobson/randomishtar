@@ -1,0 +1,17 @@
+{
+    "entries": {
+        "perPage": 20,
+        "pages": 73,
+        "lastPage": 17
+    },
+    "cards": {
+        "perPage": 20,
+        "pages": 42,
+        "lastPage": 14
+    },
+    "records": {
+        "perPage": 20,
+        "pages": 4,
+        "lastPage": 10
+    }
+}
